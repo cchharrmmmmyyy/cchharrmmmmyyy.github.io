@@ -1637,23 +1637,23 @@ canvas:not(#ribbon-canvas),
 }
 :root {
   --global-font-size: 14px;
-  --global-bg: #fff;
+  --global-bg: rgba(255, 255, 255, 0.85);
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
   --hr-before-color: #80c8f8;
-  --search-bg: #f6f8fa;
+  --search-bg: rgba(246, 248, 250, 0.9);
   --search-input-color: #4c4948;
   --search-a-color: #4c4948;
   --preloader-bg: #37474f;
   --preloader-color: #fff;
   --tab-border-color: #f0f0f0;
-  --tab-button-bg: #f0f0f0;
+  --tab-button-bg: rgba(240, 240, 240, 0.9);
   --tab-button-color: #1f2d3d;
   --tab-button-hover-bg: #dcdcdc;
-  --tab-button-active-bg: #fff;
-  --card-bg: #fff;
+  --tab-button-active-bg: rgba(255, 255, 255, 0.95);
+  --card-bg: rgba(255, 255, 255, 0.9);
   --card-meta: #858585;
-  --sidebar-bg: #f6f8fa;
+  --sidebar-bg: rgba(246, 248, 250, 0.9);
   --sidebar-menu-bg: #fff;
   --btn-hover-color: #ff7242;
   --btn-color: #fff;
