@@ -4159,7 +4159,7 @@ figure.highlight pre .javascript .function {
 }
 #footer {
   position: relative;
-  background-color: #49b1f5;
+  background-color: #7FA85F;
   background-attachment: scroll;
   background-position: bottom;
   background-size: cover;
@@ -4177,7 +4177,7 @@ figure.highlight pre .javascript .function {
   transition: all 0.3s ease-in-out;
 }
 #footer a:hover {
-  color: #49b1f5;
+  color: #5C6E4F;
 }
 #footer .footer-separator {
   margin: 0 4px;
